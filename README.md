@@ -39,7 +39,7 @@ php artisan passport:client
 
 #set client_id and client secret on the foodpandas env 
 
-# New client created successfully.
+#Demo New client created successfully.
 # Client ID: 9f542125-6222-46ef-9ecf-193ff9a8b2e4
 # Client secret: IZ2SfAb0QdCfUl7L1V8LFXDKuVM1Va0oOJeXByim
 
