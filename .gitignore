@@ -1,0 +1,40 @@
+# ignore .phpunit.cache anywhere
+**/.phpunit.cache
+
+# ignore node_modules anywhere
+**/node_modules
+
+**/.DS_Store
+
+# ignore Laravel build/hot/public folders anywhere
+**/public/build
+**/public/hot
+**/public/storage
+**/storage/*.key
+
+# ignore vendor folders anywhere
+**/vendor
+
+# ignore env files anywhere
+**/.env
+**/.env.backup
+**/.env.production
+
+# phpunit result cache anywhere
+**/.phpunit.result.cache
+
+# homestead config
+**/Homestead.json
+**/Homestead.yaml
+
+# auth json anywhere
+**/auth.json
+
+# debug logs anywhere
+**/npm-debug.log
+**/yarn-error.log
+
+# IDE / editor configs anywhere
+**/.fleet
+**/.idea
+**/.vscode
